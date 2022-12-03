@@ -1,4 +1,4 @@
-# ShippingWebsite
+# ShoppingWebsite
 
 This repository contains the code for a shopping website, built with React for the frontend and Django for the backend (sqlite is used for the database).
 
