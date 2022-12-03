@@ -14,7 +14,7 @@ and then go to the 'djangoRest' directory and run the command
 "npm install"  
 "npm start"  
 
-3) Go to the url 'localhost:8000' on your machine.
+3) Go to the url 'http://localhost:8000' on your machine.
 
 
 Video of website being used:  
