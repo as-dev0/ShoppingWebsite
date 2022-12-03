@@ -4,10 +4,10 @@ This repository contains the code for a shopping website, built with React for t
 
 To run this code on your computer:
 
-1) Make sure you have python installed. Run the command 
+1) Make sure you have python installed. Run the command  
 "pip install django djangorestframework djangorestframework-simplejwt"  
 
-and then go to the 'djangoRest' directory and run the command   
+and then go to the 'djangoRest' directory and run the command  
 "python manage.py runserver 8888"  
 
 2) Make sure you have Node.js installed. Go to the 'reactFrontend' directory and run the commands  
