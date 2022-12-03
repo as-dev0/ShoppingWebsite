@@ -1,0 +1,99 @@
+body {
+  font-family: "Helvetica", "Times" , sans-serif, Lucida Bright, Lucida Fax,
+  Palatino, Palatino Linotype, Palladio, URW Palladio, serif;
+  background-color: white;
+  color: black;
+  margin: 0.5em;
+  padding: 3em;
+  text-align: center;
+}
+
+
+h1,h2 {
+  color: black;
+  font-family:"Helvetica", Open Sans, Fira Sans, Lucida Sans, Lucida Sans Unicode,
+  Trebuchet MS, Liberation Sans, Nimbus Sans L, sans-serif;
+  font-size: 3em;
+  padding: 0em;
+  margin:0.3em;
+}
+
+
+table { width: 100%; border: 0.005em solid darkgray;}
+tr, td, th {width: 20%; border: 0.005em solid darkgray; padding: 0.4em;}
+caption{font-size: 1.5em; font-weight: bold; padding: 0.1em; margin: 0.2em;}
+thead{ color: black; background-color: darkgray; }
+tbody{border: 2em; border-color: white;}
+
+figure {
+  display: inline-block;
+}
+
+form{margin: 1em;   padding: 0.01em;}
+fieldset,  label{
+  font-family: "Helvetica", "Times" , sans-serif, Lucida Bright, Lucida Fax,
+  Palatino, Palatino Linotype, Palladio, URW Palladio, serif;
+  color: white;
+}
+legend{
+  font-family: "Helvetica", "Times" , sans-serif, Lucida Bright, Lucida Fax,
+  Palatino, Palatino Linotype, Palladio, URW Palladio, serif;
+  color: white;
+  text-align: center;
+  justify-content: center;
+}
+input{
+  font-family: "Helvetica", "Times" , sans-serif, Lucida Bright, Lucida Fax,
+  Palatino, Palatino Linotype, Palladio, URW Palladio, serif;
+  color: white;
+  background-color: gray;
+  padding:0.4em;
+  margin:0.3em;
+  font-size: 1em;
+}
+button{
+  font-family: "Helvetica", "Times" , sans-serif, Lucida Bright, Lucida Fax,
+  Palatino, Palatino Linotype, Palladio, URW Palladio, serif;
+  color: white;
+  background-color: black;
+  border: black;
+  font-size: 1em;
+  padding: 0.5em;
+  border-radius: 1em;
+  margin: 0.5em;
+
+}
+
+.right{
+  float:right;
+}
+
+.center{
+  text-align: center;
+}
+
+#space{
+  margin: 1em;
+}
+
+#link{
+  color: black
+}
+
+p {color:black;}
+
+.left{
+  text-align: left;
+}
+
+.linkleft{
+  float: left;
+}
+.width20percent{
+  width: 20%;
+}
+
+.App-header {
+  background-color: white;
+  font-size: calc(2vmin);
+}
